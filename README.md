@@ -3,7 +3,7 @@
 
 
 
-![](https://github.com/nnedashkovsky/brickle/blob/master/img/brickle.png)
+![](https://github.com/nnedashkovsky/brickle/img/brickle.png)
 
 - Opensource typefaces
 - Copyright (c) 2021 by NN Type Foundry
