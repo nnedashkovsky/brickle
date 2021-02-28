@@ -1,9 +1,9 @@
 # brickle
-free font. just numbers
 
 
 
-![](https://github.com/nnedashkovsky/typeimprovisation/blob/master/img/timpro_first_ugly.jpg)
+
+![](https://github.com/nnedashkovsky/brickle/blob/master/img/brickle.png)
 
 - Opensource typefaces
 - Copyright (c) 2021 by NN Type Foundry
