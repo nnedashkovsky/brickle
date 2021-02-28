@@ -3,10 +3,16 @@ free font. just numbers
 
 
 
-Opensource typefaces
-Copyright (c) 2020 by NN Type Foundry
-Licensed under the Licensed under the SIL Open Font License, Version 1.1.
+![](https://github.com/nnedashkovsky/typeimprovisation/blob/master/img/timpro_first_ugly.jpg)
+
+- Opensource typefaces
+- Copyright (c) 2021 by NN Type Foundry
+- Licensed under the Licensed under the [SIL Open Font License, Version 1.1](./LICENSE.txt).
 
 
-Character Set
+Have fun with Brickle!
+
+
+**Character Set**
+
 0123456789
